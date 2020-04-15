@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my first stream",
+      "description": "test 1",
+      "id": 1
+    },
+    {
+      "title": "test 2",
+      "description": "test 2 desc",
+      "id": 2
+    },
+    {
+      "title": "test 3 w userId",
+      "description": "this one has userId",
+      "id": 3
+    },
+    {
+      "title": "test 4",
+      "description": "test3 no userId but this one should have!",
+      "userId": "108255692256008401506",
+      "id": 4
+    }
+  ]
+}
